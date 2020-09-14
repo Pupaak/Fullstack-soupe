@@ -1,6 +1,6 @@
 # Item Catalog: The MOOC Catalog
 
-by Allan Reyes, in fulfillment of Udacity's [Full-Stack Web Developer Nanodegree](https://www.udacity.com/course/nd004)
+by Neghah Yadasht, in fulfillment of Udacity's [Full-Stack Web Developer Nanodegree](https://www.udacity.com/course/nd004)
 
 ### About
 
